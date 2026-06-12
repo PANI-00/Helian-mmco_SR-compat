@@ -2,31 +2,19 @@
 
 **Helian-mmco (Sundial Lite edit) — Super Resolution Compatible**
 
-[中文] Helian-mmco 的 Super Resolution 兼容版 / [EN] Super Resolution compatibility patch for Helian-mmco
-
 基于 [MoAoXnX/Helian-mmco_Sundial-Lite_edit](https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit) 修改，增加了 [Super Resolution](https://github.com/187J3X1-114514/superresolution) 模组的兼容支持。
+
+Super Resolution compatibility patch for Helian-mmco, based on [MoAoXnX/Helian-mmco_Sundial-Lite_edit](https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit) with [Super Resolution](https://github.com/187J3X1-114514/superresolution) mod support.
 
 ---
 
 ## 🚀 Super Resolution
 
-### [中文]
+Super Resolution 是一个 Minecraft 模组，通过 **FSR / DLSS / XeSS** 等超分辨率技术，在几乎不损失画质的情况下大幅提升帧率：用更低的内部分辨率渲染，通过算法智能放大到目标分辨率，从而获得更高的 FPS，而画面损失几乎不可察觉。
 
-**Super Resolution 是什么？**
-
-Super Resolution 是一个 Minecraft 模组，通过 **FSR / DLSS / XeSS** 等超分辨率技术，在几乎不损失画质的情况下大幅提升帧率。通俗来说就是：
-
-> **用更低的内部分辨率渲染，通过算法智能放大到目标分辨率，从而获得更高的 FPS，而画面损失几乎不可察觉。**
+Super Resolution is a Minecraft mod that uses **FSR / DLSS / XeSS** upscaling to significantly boost FPS with nearly no visual quality loss — renders at a lower internal resolution, then intelligently upscales to your target resolution.
 
 详细功能介绍和配置说明请见：[Super Resolution 模组仓库](https://github.com/187J3X1-114514/superresolution)
-
-### [EN]
-
-**What is Super Resolution?**
-
-Super Resolution is a Minecraft mod that uses **FSR / DLSS / XeSS** upscaling technologies to significantly boost FPS with nearly no visual quality loss. In simple terms:
-
-> **Renders at a lower internal resolution, then intelligently upscales to your target resolution — giving you higher FPS while the quality loss is barely noticeable.**
 
 For detailed features and configuration, visit: [Super Resolution Mod Repository](https://github.com/187J3X1-114514/superresolution)
 
@@ -34,13 +22,9 @@ For detailed features and configuration, visit: [Super Resolution Mod Repository
 
 ## 📦 安装 / Installation
 
-### [中文]
-
 1. 安装 [Super Resolution](https://github.com/187J3X1-114514/superresolution) 模组（NeoForge / Fabric）
 2. 将本光影包放入 `.minecraft/shaderpacks/` 目录
 3. 在游戏中选中本光影包，SR 配置会自动生效
-
-### [EN]
 
 1. Install the [Super Resolution](https://github.com/187J3X1-114514/superresolution) mod (NeoForge / Fabric)
 2. Place this shaderpack in your `.minecraft/shaderpacks/` folder
@@ -111,10 +95,8 @@ As a compartion to the full version, it does not use voxelization and world spac
 
 ## 📜 许可证 / License
 
-### [中文]
 本项目基于 **GNU General Public License v3.0** 发布 — 详见 [LICENSE](./LICENSE)。
 
-### [EN]
 This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](./LICENSE).
 
 ---
