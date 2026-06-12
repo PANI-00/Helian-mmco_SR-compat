@@ -1,12 +1,18 @@
 # Helian-mmco_SR-compat
 
-**Helian-mmco (Sundial Lite edit) 的 Super Resolution 兼容版**
+**Helian-mmco (Sundial Lite edit) — Super Resolution Compatible**
+
+[中文] Helian-mmco 的 Super Resolution 兼容版 / [EN] Super Resolution compatibility patch for Helian-mmco
 
 基于 [MoAoXnX/Helian-mmco_Sundial-Lite_edit](https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit) 修改，增加了 [Super Resolution](https://github.com/187J3X1-114514/superresolution) 模组的兼容支持。
 
 ---
 
-## 🚀 Super Resolution 是什么？
+## 🚀 Super Resolution
+
+### [中文]
+
+**Super Resolution 是什么？**
 
 Super Resolution 是一个 Minecraft 模组，通过 **FSR / DLSS / XeSS** 等超分辨率技术，在几乎不损失画质的情况下大幅提升帧率。通俗来说就是：
 
@@ -14,13 +20,31 @@ Super Resolution 是一个 Minecraft 模组，通过 **FSR / DLSS / XeSS** 等�
 
 详细功能介绍和配置说明请见：[Super Resolution 模组仓库](https://github.com/187J3X1-114514/superresolution)
 
+### [EN]
+
+**What is Super Resolution?**
+
+Super Resolution is a Minecraft mod that uses **FSR / DLSS / XeSS** upscaling technologies to significantly boost FPS with nearly no visual quality loss. In simple terms:
+
+> **Renders at a lower internal resolution, then intelligently upscales to your target resolution — giving you higher FPS while the quality loss is barely noticeable.**
+
+For detailed features and configuration, visit: [Super Resolution Mod Repository](https://github.com/187J3X1-114514/superresolution)
+
 ---
 
-## 📦 安装
+## 📦 安装 / Installation
+
+### [中文]
 
 1. 安装 [Super Resolution](https://github.com/187J3X1-114514/superresolution) 模组（NeoForge / Fabric）
 2. 将本光影包放入 `.minecraft/shaderpacks/` 目录
 3. 在游戏中选中本光影包，SR 配置会自动生效
+
+### [EN]
+
+1. Install the [Super Resolution](https://github.com/187J3X1-114514/superresolution) mod (NeoForge / Fabric)
+2. Place this shaderpack in your `.minecraft/shaderpacks/` folder
+3. Select it in-game — the SR configuration will activate automatically
 
 ---
 
@@ -85,12 +109,18 @@ As a compartion to the full version, it does not use voxelization and world spac
 
 ---
 
-## 📜 许可证
+## 📜 许可证 / License
 
+### [中文]
 本项目基于 **GNU General Public License v3.0** 发布 — 详见 [LICENSE](./LICENSE)。
 
-### 致谢
+### [EN]
+This project is licensed under the **GNU General Public License v3.0** — see [LICENSE](./LICENSE).
 
-- [GeForceLegend/Sundial-Lite](https://github.com/GeForceLegend/Sundial-Lite) — 原始光影
-- [MoAoXnX/Helian-mmco_Sundial-Lite_edit](https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit) — Helian 改版
-- [187J3X1-114514/superresolution](https://github.com/187J3X1-114514/superresolution) — Super Resolution 模组
+---
+
+### 致谢 / Credits
+
+- [GeForceLegend/Sundial-Lite](https://github.com/GeForceLegend/Sundial-Lite) — 原始光影 / Original shaderpack
+- [MoAoXnX/Helian-mmco_Sundial-Lite_edit](https://github.com/MoAoXnX/Helian-mmco_Sundial-Lite_edit) — Helian 改版 / Helian edit
+- [187J3X1-114514/superresolution](https://github.com/187J3X1-114514/superresolution) — Super Resolution 模组 / SR Mod
